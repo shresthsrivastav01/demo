@@ -1,4 +1,4 @@
 # demo
 this is my first git repository
 <br>
-author - shresth.
+author - shresth(srivastav).
